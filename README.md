@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj-Makhijani](https://github.com/pankaj-Makhijani)
 
-- 📝 I regularly write articles on [I don't have any blog yet.](I don't have any blog yet.)
+- 📝 I regularly write articles on [I don't have any blog yet.]
 
 - 💬 Ask me about **C++ and Javascript**
 
